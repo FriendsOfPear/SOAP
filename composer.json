@@ -44,7 +44,7 @@
         "pear/pear": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "^4.8"
     },
     "suggest": {
         "pear/mail": "Install optionally via your project's composer.json"
